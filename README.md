@@ -3,7 +3,7 @@
 ##  
 ## DISCLAIMER: This project is intended for personal use and educational purposes - it's not affiliated, endorsed or licensed by Nintendo in any means.  
   
-The N64Jamma emulates two gamepads mapped to a standard Jamma edge connector. Buttons are mapped to be suitable for games such as Killer Instinct Gold and Mortal Kombat Trilogy. Using two onboard dip switches or borne terminal connectors, the directional pad can be configured as digital or analog, making possible to play all sorts of games.  
+The N64Jamma emulates two gamepads mapped to a standard Jamma edge connector. Buttons are mapped to be suitable for games such as Killer Instinct Gold and Mortal Kombat Trilogy. Using two onboard dip switches or borne terminal connectors, the directional pad can be configured as digital or analog, making possible to play all sorts of games. Furthermore, by selecting "Encoder" via dip switch, the Jamma inputs Up/Down and Left/Right can be attached to Rotary Encoders, making it possible to play racing games.  
   
 The "kick buttons" are mapped to the Jamma edge as like the Pandora's Box configuration, but also on a single male terminal pins in the classic Street Fighter bootleg standard. The remaining buttons Z, L and R are also available on the side borne connectors.  
  
