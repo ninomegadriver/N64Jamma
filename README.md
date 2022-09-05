@@ -13,6 +13,8 @@ The Atmega328p MCUs code are based on the [At64 code](https://github.com/ninomeg
   
 This hardware and software are open-source and provided as is under [The GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).  
  
+Wanna build it yourself? Quick order at [PCB Way...](https://www.pcbway.com/project/shareproject/N64_to_Jamma_4c273af3.html)  
+
 Contact:  
 Nino MegaDriver  
 [nino@nino.com.br](mailto:nino@nino.com.br)  
